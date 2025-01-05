@@ -1,1 +1,1 @@
-# Trade-Management-strategy
+# DEMA-RSI strategy
